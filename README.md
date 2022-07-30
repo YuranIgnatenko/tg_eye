@@ -10,12 +10,10 @@ https://my.telegram.org/auth
 <h2>
 Example:
 import tg_eye as eye
- 
 api_hash = 'scs0dc0siv7d76d8v9ecsd9ka9'
 api_id = '999999'
 namefile = "file.log"
 array_users = ["Иван Иванов", "Alex", "+79009009090", "U7"]
- 
 delay_sec = 0
 eye = eye.Eye(api_hash, api_id, namefile, array_users, delay_sec)
 eye.run()
