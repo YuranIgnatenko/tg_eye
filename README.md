@@ -26,7 +26,7 @@ file output:
 Sat Jul 30 16:58:15 2022& UserStatusOffline:Иван Иванов, UserStatusOnline:Alex, UserStatusRecently:+79009009090, UserNotFound:U7 \
  
 </h2>
-Статусы активности: \
+Статусы активности:
 <ul>
 <li>UserStatusOnline (в сети) </li>
 <li>UserStatusOffline (не в сети - доступно время последнего посещения)</li>
