@@ -23,7 +23,7 @@ console output:
 [Sat Jul 30 16:58:15 2022] write in file.log: ['UserStatusOffline:Иван Иванов', 'UserStatusOnline:Alex', 'UserStatusRecently:+79009009090', 'UserNotFound:U7'] \
 ---------------------------------------------------------- \
 file output: 
-Sat Jul 30 16:58:15 2022& UserStatusOffline:Иван Иванов, UserStatusOnline:Alex, UserStatusRecently:+79009009090, UserNotFound:U7 \
+Sat Jul 30 16:58:15 2022& UserStatusOffline:Иван Иванов, UserStatusOnline:Alex, UserStatusRecently:+79009009090, UserNotFound:U7
  
 </h2>
 Статусы активности:
